@@ -1,29 +1,11 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [HanA Demo](http://hansagastyra.esy.es)
 
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
+This is my version of HTML5 Boilerplate.
+Basically I just make it fit my needs of a simple web project using Foundation and SASS.
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
-
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
-
-
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the [tagged
-   release](https://github.com/h5bp/html5-boilerplate/releases) you'd like to
-   use.
-
+## How To Use It
+Feel free to use it, it's just another version of HTML5 Boilerplate.
+Since I deleted some stuff, maybe you will need to add icons or something like that.
 
 ## Features
 
@@ -45,20 +27,5 @@ Choose one of the following options:
 * Cross-domain Ajax and Flash.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
-
-[HTML5 Boilerplate v4 provides legacy browser
-support](https://github.com/h5bp/html5-boilerplate/tree/v4) (IE 6+, Firefox
-3.6+, Safari 4+), but is no longer actively developed.
-
-## Documentation
-
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
-
-
-## Contributing
-
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
-developers have helped make the HTML5 Boilerplate what it is today.
+* Foundation ready
+* SASS ready
